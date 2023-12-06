@@ -6,7 +6,7 @@ public class Main {
         int[] arr1 = {2, 3, 9, 2, 2};
         int n1 = arr1.length;
         int result1 = findMajority(arr1, n1);
-        System.out.println(result1); // Expected Output: 2
+        System.out.println(result1);
 
         int[] arr2 = {8, 5, 1, 9};
         int n2 = arr2.length;
